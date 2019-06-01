@@ -29,5 +29,4 @@ end
 def using_insert(arr, arg)
   arr.insert(4)
 end
-# my_array = ['one', 'two', 'three']
-# puts pop_with_args(my_array)
+
