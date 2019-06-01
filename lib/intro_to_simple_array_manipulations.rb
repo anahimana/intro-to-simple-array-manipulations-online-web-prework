@@ -15,3 +15,4 @@ def pop_with_args(arr)
 end
 
 my_array = ['one', 'two', 'three']
+pop_with_args(-1)
