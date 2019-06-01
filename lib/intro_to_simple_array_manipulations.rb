@@ -1,4 +1,4 @@
-using_push
+def using_push(arr, str)
   # takes in two arguments, an array and a string and adds that string to the endof the array using the push method (FAILED - 1)
 
 #using_unshift
