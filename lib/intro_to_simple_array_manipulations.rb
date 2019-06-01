@@ -1,7 +1,7 @@
 # using_push
   # takes in two arguments, an array and a string and adds that string to the endof the array using the push method (FAILED - 1)
 def using_push(arr, str)
-
+end
 #using_unshift
   takes in two arguments, an array and a string and adds that string to the front of the array using the unshift method (FAILED - 2)
   increases the length of the array (FAILED - 3)
