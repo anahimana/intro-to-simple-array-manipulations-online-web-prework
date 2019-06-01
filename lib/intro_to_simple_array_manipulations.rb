@@ -6,3 +6,5 @@ def using_unshift(arr, str)
   arr.unshit(str)
 end
 
+def using_pop
+end
