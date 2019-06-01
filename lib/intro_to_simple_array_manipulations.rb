@@ -13,3 +13,5 @@ end
 def pop_with_args(arr)
   arr.pop(-1)
 end
+
+my_array = ['one', 'two', 'three']
