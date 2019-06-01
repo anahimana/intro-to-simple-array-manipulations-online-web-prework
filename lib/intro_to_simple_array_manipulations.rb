@@ -31,3 +31,4 @@ def using_insert(arr, arg)
 end
 
 def using_uniq(arr)
+end
